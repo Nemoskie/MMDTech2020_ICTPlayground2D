@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Starter2DScene.unity
+- path: C:/Users/User/Desktop/mm tech/Asset_Jumper/Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
